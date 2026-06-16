@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/zinc75?cardType=github&theme=buefy&fontFamily=&preferLogin=true&Points.IndirectStars=0&borderRadius=12)](https://git.io/awesome-stats-card)
 <!--
 **zinc75/zinc75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
