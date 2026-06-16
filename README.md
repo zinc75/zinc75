@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://repository-images.githubusercontent.com/1248120393/2d461176-392b-4871-a18e-0fccef54744b
-
 ## Pinned repositories :
 
 <table>
