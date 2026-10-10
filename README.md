@@ -18,6 +18,17 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/zinc75/JackMoebius">
+        <img
+          src="https://jackmoebius.io/assets/og-banner.png"
+          alt="JackMoebius"
+        />
+      </a>
+      <p><strong><a href="https://github.com/zinc75/JackMoebius">JackMoebius</a></strong></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <a href="https://github.com/zinc75/JackMate">
         <img
@@ -37,7 +48,7 @@ Here are some ideas to get you started:
       <p><strong><a href="https://github.com/zinc75/quarto-cnam-thesis">Quarto Cnam-thesis template</a></strong></p>
     </td>
   </tr>
-    <tr>
+  <tr>
     <td width="50%" align="center">
       <a href="https://github.com/zinc75/quarto-quartable">
         <img
@@ -51,7 +62,7 @@ Here are some ideas to get you started:
       <a href="https://github.com/zinc75/quarto-proofread-comments">
         <img
           src="https://repository-images.githubusercontent.com/1261568313/6eb5debc-1c80-4938-95a0-aea0fabe3431"
-          alt="Quarto Cnam-thesis"
+          alt="Quarto Proofread Comments"
         />
       </a>
       <p><strong><a href="https://github.com/zinc75/quarto-proofread-comments">Quarto Proofread Comments extension</a></strong></p>
