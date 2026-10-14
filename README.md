@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <td width="50%" align="center">
       <a href="https://github.com/zinc75/JackMate">
         <img
-          src="https://repository-images.githubusercontent.com/1193713126/ce8e7f43-8e2c-432d-8a43-bb10c4789f44"
+          src="https://jackmate.app/assets/og-image.png"
           alt="JackMate"
         />
       </a>
