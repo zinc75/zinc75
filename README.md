@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <td colspan="2" align="center">
       <a href="https://github.com/zinc75/JackMoebius">
         <img
-          src="https://jackmoebius.io/assets/og-banner.jpg"
+          src="https://jackmoebius.io/assets/og-banner.png"
           alt="JackMoebius"
         />
       </a>
